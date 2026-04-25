@@ -15,7 +15,7 @@ const config = {
     port: 3306,
     name: 'myapp',
     user: 'root',
-    password: 'soni284R@wn@k',
+    password: 'password',
   },
 
   // JWT / Auth (for future use)
